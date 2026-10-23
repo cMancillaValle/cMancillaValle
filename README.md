@@ -26,7 +26,7 @@ Actualmente exploro áreas como la visión por computador, los servicios backend
 
 ### Lenguajes
 
-![Lenguajes](https://skillicons.dev/icons?i=python,java,js,cpp)
+![Lenguajes](https://skillicons.dev/icons?i=c,cpp,python,java,js)
 
 ### Desarrollo web y backend
 
