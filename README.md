@@ -1,15 +1,14 @@
-
 <div align="center">
 
 # CARLOS ALBERTO MANCILLA VALLE
 
 ### Desarrollador de Software Junior
 
-Construyendo soluciones con software, explorando nuevas tecnologías y convirtiendo ideas en proyectos reales
+Construyendo soluciones con software, explorando nuevas tecnologías y convirtiendo ideas en proyectos reales.
 
-[![GitHub](https://img.shields.io/badge/GitHub-cMancillaValle-181818?style=for-the-badge&logo=github&logoColor=white)](https://github.com/cMancillaValle)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carlos-mancilla-ab5b9b412/)
-[![Portafolio](https://img.shields.io/badge/Portafolio-Web-176BFF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://portafolius-prov.cmancillav.workers.dev/)
+![GitHub](https://img.shields.io/badge/GitHub-cMancillaValle-181818?style=for-the-badge&logo=github&logoColor=white)
+![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
+![Portafolio](https://img.shields.io/badge/Portafolio-Web-176BFF?style=for-the-badge&logo=googlechrome&logoColor=white)
 
 </div>
 
@@ -21,83 +20,48 @@ Soy desarrollador de software junior, interesado en el desarrollo backend, las a
 
 Me gusta aprender construyendo proyectos, experimentar con diferentes tecnologías y entender cómo funcionan los sistemas más allá de su interfaz.
 
-Actualmente exploro áreas como la visión por computador, los servicios backend, los sistemas distribuidos y el desarrollo de software para PlayStation 2.
+Actualmente exploro áreas como la visión por computador, los servicios backend, los sistemas distribuidos, Edge Computing y el desarrollo de software para PlayStation 2 mediante PS2SDK.
 
 ## STACK TECNOLÓGICO
 
-### Lenguajes
+### Lenguajes de programación
 
-![Lenguajes](https://skillicons.dev/icons?i=c,cpp,python,java,js)
+<div align="left">
 
-### Desarrollo web y backend
-
-![Desarrollo web](https://skillicons.dev/icons?i=html,css,react,nodejs,fastapi,flask)
-
-### Bases de datos
-
-![Bases de datos](https://skillicons.dev/icons?i=postgres,mysql)
-
-### Infraestructura y herramientas
-
-![Herramientas](https://skillicons.dev/icons?i=docker,cloudflare,git,github)
-
-### Inteligencia artificial
-
-- YOLOv8
-- OpenCV
-- MediaPipe
-- Experimentación con modelos de lenguaje
-
-Integración de modelos de lenguaje y experimentación con visión por computador.
-
-### Exploración técnica
-
-- PS2SDK y desarrollo para PlayStation 2
-- Edge Computing
-- Sistemas distribuidos y arquitectura de servicios
-
-## PROYECTOS DESTACADOS
-
-### ARGOS-SiVIA
-
-Proyecto de software que integra componentes backend y experimentación con inteligencia artificial y visión por computador.
-
-[Explorar repositorio](https://github.com/cMancillaValle/ARGOS-SiVIA)
-
-### UCBet - Apuestas Deportivas
-
-Aplicación enfocada en servicios backend, desarrollo web e integración de componentes de una arquitectura basada en servicios.
-
-[Explorar repositorio](https://github.com/cMancillaValle/Apuestas-Deportivas)
-
-### Rieggo - Sistema de Riego Automático
-
-Proyecto de aplicación web relacionado con un sistema de riego automático y exploración de conceptos de Edge Computing.
-
-[Explorar repositorio](https://github.com/cMancillaValle/sistema-riego-automatico)
-
-### IAT-BETO-API
-
-Proyecto relacionado con el desarrollo de una API dentro del trabajo de inteligencia artificial.
-
-[Explorar repositorio](https://github.com/cMancillaValle/IAT-BETO-API)
-
----
-
-## FILOSOFÍA
-
-<div align="center">
-
-**El cambio empieza por uno mismo.**
-
-Inspirado en *Man in the Mirror*, de Michael Jackson.
+![Languages](https://skillicons.dev/icons?i=c,cpp,python,java,js&theme=dark)
 
 </div>
 
----
+### Desarrollo web y backend
 
-<div align="center">
+<div align="left">
 
-[GitHub](https://github.com/cMancillaValle) · [LinkedIn](https://www.linkedin.com/in/carlos-mancilla-ab5b9b412/)
+![Web Development](https://skillicons.dev/icons?i=html,css,react,nodejs,fastapi,flask&theme=dark)
+
+</div>
+
+### Bases de datos
+
+<div align="left">
+
+![Databases](https://skillicons.dev/icons?i=postgres,mysql&theme=dark)
+
+</div>
+
+### Infraestructura y herramientas
+
+<div align="left">
+
+![Tools](https://skillicons.dev/icons?i=docker,cloudflare,git,github&theme=dark)
+
+</div>
+
+### Inteligencia artificial y visión por computador
+
+<div align="left">
+
+<img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="48" alt="OpenCV" title="OpenCV"/>
+<img src="https://cdn.simpleicons.org/mediapipe/0097A7" height="48" alt="MediaPipe" title="MediaPipe"/>
+<img src="https://cdn.simpleicons.org/ultralytics/111F68" height="48" alt="Ultralytics" title="Ultralytics"/>
 
 </div>
