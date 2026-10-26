@@ -6,9 +6,17 @@
 
 Construyendo soluciones con software, explorando nuevas tecnologías y convirtiendo ideas en proyectos reales.
 
-![GitHub](https://img.shields.io/badge/GitHub-cMancillaValle-181818?style=for-the-badge&logo=github&logoColor=white)
-![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)
-![Portafolio](https://img.shields.io/badge/Portafolio-Web-176BFF?style=for-the-badge&logo=googlechrome&logoColor=white)
+<p>
+  <a href="https://github.com/cMancillaValle">
+    <img src="https://img.shields.io/badge/GitHub-cMancillaValle-181818?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="https://www.linkedin.com/in/carlos-mancilla-ab5b9b412/">
+    <img src="https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://portafolius-prov.cmancillav.workers.dev/">
+    <img src="https://img.shields.io/badge/Portafolio-Web-176BFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portafolio"/>
+  </a>
+</p>
 
 </div>
 
@@ -20,48 +28,102 @@ Soy desarrollador de software junior, interesado en el desarrollo backend, las a
 
 Me gusta aprender construyendo proyectos, experimentar con diferentes tecnologías y entender cómo funcionan los sistemas más allá de su interfaz.
 
-Actualmente exploro áreas como la visión por computador, los servicios backend, los sistemas distribuidos, Edge Computing y el desarrollo de software para PlayStation 2 mediante PS2SDK.
+Actualmente exploro áreas como la visión por computador, los servicios backend, los sistemas distribuidos y el desarrollo de software para PlayStation 2.
+
+---
 
 ## STACK TECNOLÓGICO
 
-### Lenguajes de programación
+### Lenguajes
 
 <div align="left">
-
-![Languages](https://skillicons.dev/icons?i=c,cpp,python,java,js&theme=dark)
-
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,js&theme=dark" alt="C, C++, Python, Java y JavaScript"/>
 </div>
 
 ### Desarrollo web y backend
 
 <div align="left">
-
-![Web Development](https://skillicons.dev/icons?i=html,css,react,nodejs,fastapi,flask&theme=dark)
-
+  <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,fastapi,flask&theme=dark" alt="HTML, CSS, React, Node.js, FastAPI y Flask"/>
 </div>
 
 ### Bases de datos
 
 <div align="left">
-
-![Databases](https://skillicons.dev/icons?i=postgres,mysql&theme=dark)
-
+  <img src="https://skillicons.dev/icons?i=postgres,mysql&theme=dark" alt="PostgreSQL y MySQL"/>
 </div>
 
 ### Infraestructura y herramientas
 
 <div align="left">
-
-![Tools](https://skillicons.dev/icons?i=docker,cloudflare,git,github&theme=dark)
-
+  <img src="https://skillicons.dev/icons?i=docker,cloudflare,git,github&theme=dark" alt="Docker, Cloudflare, Git y GitHub"/>
 </div>
 
 ### Inteligencia artificial y visión por computador
 
-<div align="left">
+<p>
+  <img src="https://img.shields.io/badge/YOLOv8-111F68?style=for-the-badge&logo=ultralytics&logoColor=white" alt="YOLOv8"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV"/>
+  <img src="https://img.shields.io/badge/MediaPipe-0097A7?style=for-the-badge" alt="MediaPipe"/>
+</p>
 
-<img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="48" alt="OpenCV" title="OpenCV"/>
-<img src="https://cdn.simpleicons.org/mediapipe/0097A7" height="48" alt="MediaPipe" title="MediaPipe"/>
-<img src="https://cdn.simpleicons.org/ultralytics/111F68" height="48" alt="Ultralytics" title="Ultralytics"/>
+- Experimentación con modelos de lenguaje.
+- Integración de modelos de lenguaje en aplicaciones.
+- Visión por computador y procesamiento de imágenes.
+
+### Exploración técnica
+
+- **PS2SDK:** desarrollo de software para PlayStation 2.
+- **Edge Computing:** exploración de procesamiento en el borde.
+- **Sistemas distribuidos:** arquitectura de servicios y comunicación entre componentes.
+
+---
+
+## PROYECTOS DESTACADOS
+
+### ARGOS-SiVIA
+
+Proyecto de software que integra componentes backend y experimentación con inteligencia artificial y visión por computador.
+
+[**Explorar repositorio →**](https://github.com/cMancillaValle/ARGOS-SiVIA)
+
+### UCBet — Apuestas Deportivas
+
+Aplicación enfocada en servicios backend, desarrollo web e integración de componentes de una arquitectura basada en servicios.
+
+[**Explorar repositorio →**](https://github.com/cMancillaValle/Apuestas-Deportivas)
+
+### Rieggo — Sistema de Riego Automático
+
+Proyecto de aplicación web relacionado con un sistema de riego automático y exploración de conceptos de Edge Computing.
+
+[**Explorar repositorio →**](https://github.com/cMancillaValle/sistema-riego-automatico)
+
+### IAT-BETO-API
+
+Proyecto relacionado con el desarrollo de una API dentro del trabajo de inteligencia artificial.
+
+[**Explorar repositorio →**](https://github.com/cMancillaValle/IAT-BETO-API)
+
+---
+
+## FILOSOFÍA
+
+<div align="center">
+
+### El cambio empieza por uno mismo.
+
+Inspirado en *Man in the Mirror*, de Michael Jackson.
+
+</div>
+
+---
+
+<div align="center">
+
+<a href="https://github.com/cMancillaValle">GitHub</a>
+·
+<a href="https://www.linkedin.com/in/carlos-mancilla-ab5b9b412/">LinkedIn</a>
+·
+<a href="https://portafolius-prov.cmancillav.workers.dev/">Portafolio</a>
 
 </div>
