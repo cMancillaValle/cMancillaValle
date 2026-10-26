@@ -92,6 +92,12 @@ Aplicación enfocada en servicios backend, desarrollo web e integración de comp
 
 [**Explorar repositorio →**](https://github.com/cMancillaValle/Apuestas-Deportivas)
 
+### PS2SDK — Curso de desarrollo para PlayStation 2
+
+Cursillo práctico orientado al aprendizaje de PS2SDK y al desarrollo de software para PlayStation 2. Un espacio para documentar el proceso de aprendizaje, experimentar con herramientas de desarrollo y explorar las posibilidades de la programación en hardware clásico.
+
+[**Explorar repositorio →**](https://github.com/cMancillaValle/curso_PS2SDK)
+
 ### Rieggo — Sistema de Riego Automático
 
 Proyecto de aplicación web relacionado con un sistema de riego automático y exploración de conceptos de Edge Computing.
@@ -103,12 +109,6 @@ Proyecto de aplicación web relacionado con un sistema de riego automático y ex
 Proyecto relacionado con el desarrollo de una API dentro del trabajo de inteligencia artificial.
 
 [**Explorar repositorio →**](https://github.com/cMancillaValle/IAT-BETO-API)
-
-### PS2SDK — Curso de desarrollo para PlayStation 2
-
-Cursillo práctico orientado al aprendizaje de PS2SDK y al desarrollo de software para PlayStation 2. Un espacio para documentar el proceso de aprendizaje, experimentar con herramientas de desarrollo y explorar las posibilidades de la programación en hardware clásico.
-
-[**Explorar repositorio →**](https://github.com/cMancillaValle/curso_PS2SDK)
 
 ---
 
