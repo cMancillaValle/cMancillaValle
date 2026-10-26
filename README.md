@@ -85,35 +85,25 @@ Actualmente exploro áreas como la visión por computador, los servicios backend
 
 ## PROYECTOS DESTACADOS
 
-### ARGOS-SiVIA
+### ARGOS-SiVIA | [**Explorar repositorio →**](https://github.com/cMancillaValle/ARGOS-SiVIA)
 
 Proyecto de software que integra componentes backend y experimentación con inteligencia artificial y visión por computador.
 
-[**Explorar repositorio →**](https://github.com/cMancillaValle/ARGOS-SiVIA)
-
-### UCBet — Apuestas Deportivas
+### UCBet - Apuestas Deportivas | [**Explorar repositorio →**](https://github.com/cMancillaValle/Apuestas-Deportivas)
 
 Aplicación enfocada en servicios backend, desarrollo web e integración de componentes de una arquitectura basada en servicios.
 
-[**Explorar repositorio →**](https://github.com/cMancillaValle/Apuestas-Deportivas)
-
-### PS2SDK — Curso de desarrollo para PlayStation 2
+### PS2SDK - Curso de desarrollo para PlayStation 2 | [**Explorar repositorio →**](https://github.com/cMancillaValle/curso_PS2SDK)
 
 Cursillo práctico orientado al aprendizaje de PS2SDK y al desarrollo de software para PlayStation 2. Un espacio para documentar el proceso de aprendizaje, experimentar con herramientas de desarrollo y explorar las posibilidades de la programación en hardware clásico.
 
-[**Explorar repositorio →**](https://github.com/cMancillaValle/curso_PS2SDK)
-
-### Rieggo — Sistema de Riego Automático
+### Rieggo - Sistema de Riego Automático | [**Explorar repositorio →**](https://github.com/cMancillaValle/sistema-riego-automatico)
 
 Proyecto de aplicación web relacionado con un sistema de riego automático y exploración de conceptos de Edge Computing.
 
-[**Explorar repositorio →**](https://github.com/cMancillaValle/sistema-riego-automatico)
-
-### IAT-BETO-API
+### IAT-BETO-API | [**Explorar repositorio →**](https://github.com/cMancillaValle/IAT-BETO-API)
 
 Proyecto relacionado con el desarrollo de una API dentro del trabajo de inteligencia artificial.
-
-[**Explorar repositorio →**](https://github.com/cMancillaValle/IAT-BETO-API)
 
 ---
 
