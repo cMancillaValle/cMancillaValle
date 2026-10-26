@@ -104,6 +104,12 @@ Proyecto relacionado con el desarrollo de una API dentro del trabajo de intelige
 
 [**Explorar repositorio →**](https://github.com/cMancillaValle/IAT-BETO-API)
 
+### PS2SDK — Curso de desarrollo para PlayStation 2
+
+Cursillo práctico orientado al aprendizaje de PS2SDK y al desarrollo de software para PlayStation 2. Un espacio para documentar el proceso de aprendizaje, experimentar con herramientas de desarrollo y explorar las posibilidades de la programación en hardware clásico.
+
+[**Explorar repositorio →**](https://github.com/cMancillaValle/curso_PS2SDK)
+
 ---
 
 ## FILOSOFÍA
